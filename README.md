@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## REDCap Integration Implementation
 
 ### 1. Secure Token Management
@@ -145,3 +146,7 @@ sequenceDiagram
 ---
 
 For detailed technical discussions or questions about the REDCap integration, please contact the development team.
+=======
+# Carepal-
+HL7 FHIR based AI Assistant for Liver Cirrhosis Management
+>>>>>>> 7219628b53eae8df40183dba83b17d0ec5894f27

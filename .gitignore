@@ -97,6 +97,12 @@ service-account.*
 
 # Web related
 lib/generated_plugin_registrant.dart
+*.dart.js
+*.info.json
+*.js
+*.js_
+*.js.deps
+*.js.map
 
 # Symbolication related
 app.*.symbols
