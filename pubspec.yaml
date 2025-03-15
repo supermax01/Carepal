@@ -1,0 +1,61 @@
+name: carepal
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.9
+  url_launcher: ^6.2.5  
+  cupertino_icons: ^1.0.8
+  google_generative_ai: ^0.3.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_markdown: ^0.7.4+1
+  intl: ^0.18.0
+  flutter_dotenv: ^5.1.0
+  flutter_secure_storage: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive_generator: ^2.0.0
+  build_runner: ^2.3.3
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - lib/images/Vector.png
+    - lib/images/doctors.png
+    - lib/images/loginpic.png
+    - lib/images/progress.png
+    - lib/images/medications.png
+    - lib/images/dates.png
+    - lib/images/knowledge.png
+    - lib/images/profile_picture.png
+    - lib/images/articles.png
+    - lib/images/video_tutorials.png
+    - lib/images/infographics.png
+    - lib/images/webinars.png
+    - lib/images/research_papers.png
+    - lib/images/news.png
+    - lib/images/lc_prom.png
+    - lib/images/health_report.png
+    - lib/images/about_app.png
+    - lib/images/profile_picture.png
+    - lib/images/personal_info.png
+    - lib/images/hospital_info.png
+    - lib/images/app_settings.png
+    - lib/images/health_report.png
+    - lib/images/lc_prom.png
+    - lib/images/about_app.png
+    - .env
+
+  # You can add more images to this section as needed
