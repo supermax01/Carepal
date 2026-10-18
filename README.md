@@ -8,6 +8,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Status:** research prototype (2024 – 2025), built during my MS in Health Informatics at Indiana University Indianapolis.
+> Finalist, [2024 AMIA/HL7 FHIR App Competition](https://amia.org/education-events/amia-2024-annual-symposium/fhir-app)
+> (AMIA 2024 Annual Symposium, San Francisco) as *Carepal for SMART Liver*.
 > Carepal's ideas continue in **Mitra Health**, a privacy-first successor that runs MedGemma on-device.
 > **Not a medical device; not for clinical use.**
 
