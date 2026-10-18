@@ -179,3 +179,10 @@ local_settings.dart
 *.aab
 *.ipa
 *.app
+
+# Virtual environments and build caches anywhere in the tree
+venv/
+**/venv/
+.venv/
+**/.venv/
+**/build/
